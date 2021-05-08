@@ -5,10 +5,10 @@ Follow the prompts to generate a README with specific info about your project
 Project Title <br>
 Project Description <br>
 Installation Instructions <br>
-Usage Information
-Type of License}
-Contribution Guidelines
-Test Instructions
+Usage Information <br>
+Type of License <br>
+Contribution Guidelines <br>
+Test Instructions <br>
 User Credits
 ## Follow The Video For Instructions
 
