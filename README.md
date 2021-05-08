@@ -11,9 +11,9 @@ Type of License <br>
 Contribution Guidelines <br>
 Test Instructions <br>
 User Credits
-### Technology Used
+## Technology Used
 Javascript <br>
 Node JS <br>
 Inquirer NPM <br>
-## Follow The Video For Instructions
+### Follow The Video For Instructions
 
