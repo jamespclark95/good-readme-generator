@@ -2,6 +2,7 @@
 ## How it Works
 Follow the prompts to generate a README with specific info about your project. <br>
 This application will generate a solid README with a table of contents that link to each section. <br>
+Choose between 3 different license badges <br>
 ## This Application Will Ask For...
 Project Title <br>
 Project Description <br>
