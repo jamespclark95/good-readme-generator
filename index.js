@@ -67,12 +67,12 @@ const questions = [
     },
 ]
 
-// TODO: Create a function to write README file
+// Function to write README file
 function writeToFile(fileName, data) {
     return fs.writeFileSync(path.join(__dirname, fileName), data)
 }
 
-// TODO: Create a function to initialize app
+// Function to initialize app
 function init() {
     inquirer.prompt(questions).then(function (answers) {
         console.log(answers)
