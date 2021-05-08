@@ -1,4 +1,4 @@
-# good-readme-generator
+# Good Readme Generator
 ## How it Works
 Follow the prompts to generate a README with specific info about your project
 ## This Application Will Ask For...
